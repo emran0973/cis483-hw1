@@ -1,0 +1,3 @@
+CIS 483 Homework 1
+
+This project practices terminal commands, HTML, Git, and GitHub.

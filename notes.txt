@@ -1,3 +1,7 @@
 CIS 483 Homework 1
 
 This project practices terminal commands, HTML, Git, and GitHub.
+
+Files:
+- index.html: page structure and content
+- styles.css: presentation rules
